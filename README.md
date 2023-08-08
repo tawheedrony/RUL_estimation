@@ -26,7 +26,7 @@ Here,
 3. Calculate likelihood and prior probabilities
 4. Calculate MAP
 
-**𝛽, 𝜂 and 𝜎𝜖 -> MKE (Maximum Likelihood Estimation)**  
+**𝛽, 𝜂 and 𝜎𝜖 -> MLE (Maximum Likelihood Estimation)**  
 
 Measurement increments 𝛥𝑌 follows a multi-variate Gaussian distribution, i.e., 𝛥𝑌 ∼ 𝑁(𝜔𝛥𝑡, 𝛺), 
     where 𝜔 = 𝛼 + 𝛽 and 𝛺 are the variance–covariance matrices.
