@@ -34,3 +34,6 @@ Measurement increments 𝛥𝑌 follows a multi-variate Gaussian distribution, i
 𝛺 = (𝜎2 + 𝜂2)𝛥𝑡𝑗 + 2𝜎𝜖2 
 From 𝛺, we need to find the estimates of 𝜂 and 𝜎. 
 But to solve the problem of ‘‘identifiability’’ is to estimate the parameters (𝜂 and 𝜎) with measurements sampled at a different interval.
+
+## 5.3 State estimation and RUL evaluation
+Kalman  Filter
