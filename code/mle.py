@@ -1,3 +1,4 @@
+import pandas as pd
 from sim import *
 from sympy import symbols, Eq, solve
 
